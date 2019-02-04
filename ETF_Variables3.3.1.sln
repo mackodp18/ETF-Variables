@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ETF_Variables3.3.1", "ETF_Variables3.3.1\ETF_Variables3.3.1.pyproj", "{B6103852-61A9-439F-9CFD-D8EB61D51053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6103852-61A9-439F-9CFD-D8EB61D51053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6103852-61A9-439F-9CFD-D8EB61D51053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D4B90EF-55BE-4EAF-9AB6-E7A5B54CA0E2}
+	EndGlobalSection
+EndGlobal
